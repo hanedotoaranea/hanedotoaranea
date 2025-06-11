@@ -1,3 +1,2 @@
 ## Hi!
-![1](<iframe src="https://assets.pinterest.com/ext/embed.html?id=1035827983056590478" height="438" width="600" frameborder="0" scrolling="no" ></iframe>)
-
+![а ты пытался понять его](https://github.com/user-attachments/assets/82729b70-2588-4e15-a8de-e3424be90787)
