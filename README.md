@@ -1,2 +1,2 @@
 ## Hi!
-![а ты пытался понять его](https://github.com/user-attachments/assets/82729b70-2588-4e15-a8de-e3424be90787)
+![feb1925f-41f6-498d-bbeb-9e8acf722c60](https://github.com/user-attachments/assets/ed545e82-da00-43fb-806b-853287df3d2d)
