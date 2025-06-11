@@ -1,5 +1,4 @@
 ## Hi there!
-![](https://github-readme-streak-stats.herokuapp.com/?user=hanedotoaranea&theme=dark)
 <!--
 **hanedotoaranea/hanedotoaranea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
