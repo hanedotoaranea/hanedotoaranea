@@ -1,7 +1,6 @@
 ## Hi there!
-![](https://github-readme-stats.vercel.app/api?username=hanedotoaranea&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanedotoaranea&theme=dark)  
-
+![Banner](https://raw.githubusercontent.com/username/repo/banner.gif)
 <!--
 **hanedotoaranea/hanedotoaranea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
