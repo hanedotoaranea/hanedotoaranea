@@ -1,5 +1,5 @@
 ## Hi!
-<!--
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/ваш_ник)<!--
 **hanedotoaranea/hanedotoaranea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
