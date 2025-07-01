@@ -1,1 +1,1 @@
-![vlcsnap-2025-06-28-15h47m39s409](https://github.com/user-attachments/assets/18beb0ee-a917-4501-82c6-8b3cfc3c071a)
+![Арам-зам-зам арам-зам-зам, Гули Гули Гули Гули Гули рам-зам-зам](https://github.com/user-attachments/assets/74900dae-de48-4281-aa12-b98008899e2d)
